@@ -52,7 +52,7 @@ Welcome to DogeDonate</h3>
 Doge Donate is currently being developed, but while you're waiting please feel free to help develop DogeDonate or tip
 us over at http://reddit.com/r/DogeDonate. Also, please spread the word about our glorious project.
 </p>
-<p>Much ty Fellow Shibes</p>
+<p>Much ty Fellow Shibes!</p>
       </section>
 
       <footer>
